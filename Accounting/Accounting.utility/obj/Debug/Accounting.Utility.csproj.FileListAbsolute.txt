@@ -1,0 +1,24 @@
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.utility\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.utility\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.utility\obj\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.utility\obj\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.utility\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.utility\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.utility\obj\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.utility\obj\Debug\Accounting.utility.pdb
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.utility\bin\Debug\Accounting.utility.dll
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.utility\bin\Debug\Accounting.utility.pdb
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.utility\obj\Debug\Accounting.utility.dll
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.utility\obj\Debug\Accounting.utility.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.utility\bin\Debug\Accounting.utility.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.utility\bin\Debug\Accounting.utility.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csproj.AssemblyReference.cache
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.utility\obj\Debug\Accounting.utility.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.utility\obj\Debug\Accounting.utility.pdb

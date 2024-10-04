@@ -1,0 +1,18 @@
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.AssemblyReference.cache
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb

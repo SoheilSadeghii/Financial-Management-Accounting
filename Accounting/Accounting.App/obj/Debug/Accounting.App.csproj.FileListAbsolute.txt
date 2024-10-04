@@ -1,0 +1,139 @@
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_08\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.AssemblyReference.cache
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.SuggestedBindingRedirects.cache
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+C:\Users\PCC\Desktop\C# Advanced\Part 09 - Adding and Removing a Person\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.AssemblyReference.cache
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.SuggestedBindingRedirects.cache
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\obj\Debug\Accounting.App.Accounting.frmNewAccounting.resources
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\obj\Debug\Accounting.App.frmReports.resources
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.xml
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.xml
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Accounting.Business.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.App\bin\Debug\Accounting.Business.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Accounting.App.exe.config
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Accounting.App.exe
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Accounting.App.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Accounting.Business.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Accounting.utility.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.Win.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.Win.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Accounting.Business.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Accounting.utility.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Stimulsoft.Base.xml
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Stimulsoft.Report.xml
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\bin\Debug\Stimulsoft.Controls.xml
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.AssemblyReference.cache
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.SuggestedBindingRedirects.cache
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\obj\Debug\Accounting.App.Accounting.frmNewAccounting.resources
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\obj\Debug\Accounting.App.frmAddOrEditCustomer.resources
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\obj\Debug\Accounting.App.frmReports.resources
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\obj\Debug\Accounting.App.frmLogin.resources
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\obj\Debug\Accounting.App.Properties.Resources.resources
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateResource.cache
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb

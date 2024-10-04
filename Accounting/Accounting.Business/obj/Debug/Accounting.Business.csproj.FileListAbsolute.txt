@@ -1,0 +1,26 @@
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_07\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csprojAssemblyReference.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+F:\CsharpAdvanced\TopLearn.Com_CsharpAdvanced_09\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.AssemblyReference.cache
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.Business\bin\Debug\EntityFramework.dll
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.Business\bin\Debug\Accounting.ViewModels.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.pdb
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.Business\bin\Debug\Accounting.DataLayer.dll.config
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.Business\bin\Debug\EntityFramework.xml
+C:\Users\PCC\Documents\Visual Studio 2022\Templates\ProjectTemplates\C#\GitHub\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CopyComplete
